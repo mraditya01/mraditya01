@@ -31,5 +31,5 @@ I am an Indonesian international student pursuing my undergraduate studies under
 This project is mainly a side-project for my full research studies regarding audio perception for self-driving vehicle. The network is trained to compute the reconstruction error by reconstructing a masked mel-spectrogram. The data used in this repository is sounds generated inside and outside of a driving car cabin using 8 microphone. 
 ### Individual Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mraditya01&repo=Anomaly_detection_using_U-net_mask_reconstruction&theme=gruvbox)](https://github.com/mraditya01/Anomaly_detection_using_U-net_mask_reconstruction)
-### Project Group Design Practice
+### Group Project Design Practice
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=design-practice-2&theme=gruvbox)](https://github.com/jgfranco17/design-practice-2)
