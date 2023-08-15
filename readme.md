@@ -19,7 +19,6 @@ I am an Indonesian international student pursuing my undergraduate studies under
 
 ## Skills and Contribution
 
-[![Radit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraditya01&hide=css&layout=compact&count_private=true&theme=gruvbox)](https://github.com/mraditya01)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraditya01&hide=css&layout=compact&count_private=true&theme=gruvbox)](https://github.com/mraditya01)
  
