@@ -1,5 +1,5 @@
 # Giovanni Muhammad Raditya
-
+<!--
 ## About Me
 <p>
 I am an Indonesian international student pursuing my graduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I will be a graduate researcher at the Kawaguchi's Lab under the Electrical Engineering. My main interests are signal processing, self-driving vehicle, and machine learning. 
@@ -17,7 +17,7 @@ I am an Indonesian international student pursuing my graduate studies under Nago
   <a href="https://www.linkedin.com/in/mradityagio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mradityagio" height="30" width="40" /></a>
   <a href="https://instagram.com/mradityagio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mradityagio" height="30" width="40" /></a>
 </p>
-
+-->
 ## Skills and Contribution
 
 
