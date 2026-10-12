@@ -1,5 +1,6 @@
 
-## Skills and Contribution
+<!--
+2 ## Skills and Contribution
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraditya01&hide=css&layout=compact&count_private=true&theme=gruvbox)](https://github.com/mraditya01)
@@ -15,3 +16,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mraditya01&repo=Anomaly_detection_using_U-net_mask_reconstruction&theme=gruvbox)](https://github.com/mraditya01/Anomaly_detection_using_U-net_mask_reconstruction)
 ### CARLA Bridge for Autoware
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mraditya01&repo=autoware.universe&theme=gruvbox)](https://github.com/mraditya01/autoware.universe/tree/updated_version)
+-->
